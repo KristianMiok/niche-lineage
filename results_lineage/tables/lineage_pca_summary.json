@@ -1,0 +1,13 @@
+{
+  "n_records": 786,
+  "n_features": 270,
+  "pc1_variance_explained": 0.14302432475685428,
+  "pc2_variance_explained": 0.08142531142685557,
+  "pc1_pc2_total": 0.22444963618370983,
+  "class_counts": {
+    "A. torrentium - CSE": 433,
+    "A. torrentium - SB": 230,
+    "A. torrentium - NCD": 64,
+    "A. bihariensis": 59
+  }
+}

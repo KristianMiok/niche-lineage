@@ -1,0 +1,162 @@
+{
+  "n_records": 786,
+  "n_features": 270,
+  "class_counts": {
+    "A. torrentium - CSE": 433,
+    "A. torrentium - SB": 230,
+    "A. torrentium - NCD": 64,
+    "A. bihariensis": 59
+  },
+  "cv_accuracy_mean": 0.802805772796904,
+  "cv_accuracy_sd": 0.016518258685387355,
+  "cv_f1_macro_mean": 0.7434231281734398,
+  "cv_f1_macro_sd": 0.027046432523109395,
+  "cv_f1_weighted_mean": 0.8097329397626505,
+  "cv_f1_weighted_sd": 0.017144342645411814,
+  "tree_depth": 5,
+  "tree_leaves": 28,
+  "top_variables": [
+    {
+      "variable": "l_CLI5",
+      "importance": 0.20540344019087087,
+      "rank": 1,
+      "cumulative": 0.20540344019087087
+    },
+    {
+      "variable": "l_CLI29",
+      "importance": 0.20200943951438158,
+      "rank": 2,
+      "cumulative": 0.4074128797052524
+    },
+    {
+      "variable": "l_TOP109",
+      "importance": 0.16928029386464538,
+      "rank": 3,
+      "cumulative": 0.5766931735698978
+    },
+    {
+      "variable": "l_CLI21",
+      "importance": 0.16096377496395908,
+      "rank": 4,
+      "cumulative": 0.7376569485338569
+    },
+    {
+      "variable": "l_SOL23",
+      "importance": 0.0642774039474587,
+      "rank": 5,
+      "cumulative": 0.8019343524813156
+    },
+    {
+      "variable": "l_CLI30",
+      "importance": 0.028688963646237717,
+      "rank": 6,
+      "cumulative": 0.8306233161275534
+    },
+    {
+      "variable": "l_CLI49",
+      "importance": 0.028434953314704716,
+      "rank": 7,
+      "cumulative": 0.859058269442258
+    },
+    {
+      "variable": "l_SOL29",
+      "importance": 0.023504234834396242,
+      "rank": 8,
+      "cumulative": 0.8825625042766543
+    },
+    {
+      "variable": "l_SOL7",
+      "importance": 0.017642355600334347,
+      "rank": 9,
+      "cumulative": 0.9002048598769886
+    },
+    {
+      "variable": "l_SOL59",
+      "importance": 0.016575451953602632,
+      "rank": 10,
+      "cumulative": 0.9167803118305913
+    },
+    {
+      "variable": "l_TOP39",
+      "importance": 0.014321409880018133,
+      "rank": 11,
+      "cumulative": 0.9311017217106095
+    },
+    {
+      "variable": "l_SOL60",
+      "importance": 0.012736153126479657,
+      "rank": 12,
+      "cumulative": 0.9438378748370891
+    },
+    {
+      "variable": "l_CLI25",
+      "importance": 0.012472866137373449,
+      "rank": 13,
+      "cumulative": 0.9563107409744626
+    },
+    {
+      "variable": "l_SOL22",
+      "importance": 0.010083561179246935,
+      "rank": 14,
+      "cumulative": 0.9663943021537095
+    },
+    {
+      "variable": "u_TOP47",
+      "importance": 0.008146201032004313,
+      "rank": 15,
+      "cumulative": 0.9745405031857138
+    },
+    {
+      "variable": "l_CLI18",
+      "importance": 0.007911384948104687,
+      "rank": 16,
+      "cumulative": 0.9824518881338186
+    },
+    {
+      "variable": "u_SOL55",
+      "importance": 0.0048459029069051595,
+      "rank": 17,
+      "cumulative": 0.9872977910407237
+    },
+    {
+      "variable": "u_CLI75",
+      "importance": 0.004182966588491106,
+      "rank": 18,
+      "cumulative": 0.9914807576292148
+    },
+    {
+      "variable": "l_TOP38",
+      "importance": 0.0034757428731860226,
+      "rank": 19,
+      "cumulative": 0.9949565005024008
+    },
+    {
+      "variable": "l_TOP129",
+      "importance": 0.003279384984703127,
+      "rank": 20,
+      "cumulative": 0.998235885487104
+    }
+  ],
+  "importance_by_type": [
+    {
+      "type": "Climate",
+      "importance": 0.6500677893041232,
+      "pct": 65.00677893041232
+    },
+    {
+      "type": "Topography",
+      "importance": 0.1986954807102662,
+      "pct": 19.869548071026617
+    },
+    {
+      "type": "Soil",
+      "importance": 0.15123672998561055,
+      "pct": 15.123672998561055
+    },
+    {
+      "type": "Land Cover",
+      "importance": 0.0,
+      "pct": 0.0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "largest_distance_pair": {
+    "group_1": "A. torrentium - NCD",
+    "group_2": "A. torrentium - SB",
+    "centroid_distance_pc12": 7.35968906274824
+  },
+  "smallest_distance_pair": {
+    "group_1": "A. torrentium - CSE",
+    "group_2": "A. torrentium - NCD",
+    "centroid_distance_pc12": 1.9745658164609796
+  },
+  "group_sizes": [
+    {
+      "group": "A. torrentium - CSE",
+      "n": 433
+    },
+    {
+      "group": "A. torrentium - SB",
+      "n": 230
+    },
+    {
+      "group": "A. torrentium - NCD",
+      "n": 64
+    },
+    {
+      "group": "A. bihariensis",
+      "n": 59
+    }
+  ]
+}

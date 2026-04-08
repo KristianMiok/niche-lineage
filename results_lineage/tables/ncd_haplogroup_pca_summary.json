@@ -1,0 +1,15 @@
+{
+  "n_records": 64,
+  "haplogroup_counts": {
+    "ZPB": 19,
+    "GK": 16,
+    "BAN": 12,
+    "LD": 11,
+    "KOR": 3,
+    "VOJ": 2,
+    "ZV": 1
+  },
+  "pc1_variance_explained": 0.19909461374253332,
+  "pc2_variance_explained": 0.13490471605406099,
+  "pc1_pc2_total": 0.3339993297965943
+}
