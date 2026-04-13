@@ -1,0 +1,7 @@
+{
+  "null_accuracy_mean": 0.5411240990083045,
+  "null_accuracy_sd": 0.006396697423204395,
+  "observed_accuracy": 0.8473433846650004,
+  "p_value": 0.0,
+  "n_permutations": 1000
+}
